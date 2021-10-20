@@ -1,4 +1,4 @@
-module github.com/mattdee123/tools/gopls
+module golang.org/x/tools/gopls
 
 go 1.18
 
